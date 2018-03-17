@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.administrator.myapplication.view.TagCloudView;
+import com.example.tagview.view.TagCloudView;
 
 import java.util.ArrayList;
 import java.util.List;

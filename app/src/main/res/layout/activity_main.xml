@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
  >
 
-    <com.example.administrator.myapplication.view.TagCloudView
+    <com.example.tagview.view.TagCloudView
         android:id="@+id/tag_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

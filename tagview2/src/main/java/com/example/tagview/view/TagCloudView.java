@@ -1,4 +1,4 @@
-package com.example.administrator.myapplication.view;
+package com.example.tagview.view;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;
@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-import com.example.administrator.myapplication.R;
+import com.example.tagview.R;
 
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
@@ -19,7 +19,7 @@ import java.util.List;
 
 /**
  * <p>项目名：DongNaoXueYuan</p>
- * <p>包名：com.alpha.mylibrary.com.example.administrator.myapplication.view</p>
+ * <p>包名：com.alpha.mylibrary.com.example.tagview.view</p>
  * <p>文件名：TagCloudView</p>
  * <p>创建者：tyh</p>
  * <p>创建时间：2018/1/19 15:37</p>
