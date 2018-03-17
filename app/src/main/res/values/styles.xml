@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    /**
+    * 自定义云标签
+    * 标签左右间隔 tag_distance_line
+    * 标签上下间隔 tag_distance_row
+    * 是否有删除动画 tag_hasDeleteAnimator
+    */
+    <declare-styleable name="AutoScrollRecyclerView">
+
+        <!--左右间距-->
+        <attr name="tag_distance_line" format="dimension" />
+        <!--上下间距-->
+        <attr name="tag_distance_row" format="dimension" />
+        <!--删除动画-->
+        <attr name="tag_hasDeleteAnimator" format="boolean" />
+
+    </declare-styleable>
+</resources>
